@@ -1,13 +1,13 @@
-package com.example.sprint_boot_logs_best_practices;
+package com.example.springbootlogsbestpractices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SprintBootLogsBestPracticesApplication {
+public class SpringBootLogsBestPracticesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SprintBootLogsBestPracticesApplication.class, args);
+		SpringApplication.run(SpringBootLogsBestPracticesApplication.class, args);
 	}
 
 }

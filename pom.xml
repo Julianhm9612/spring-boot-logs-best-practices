@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>sprint-boot-logs-best-practices</artifactId>
+	<artifactId>spring-boot-logs-best-practices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sprint-boot-logs-best-practices</name>
+	<name>spring-boot-logs-best-practices</name>
 	<description>Best Practices for Exception Logging in Spring Boot</description>
 	<url/>
 	<licenses>
